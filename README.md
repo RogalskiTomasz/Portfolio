@@ -1,2 +1,2 @@
 # Portfolio
-Description of my currently developer app
+Description of my currently developed app
