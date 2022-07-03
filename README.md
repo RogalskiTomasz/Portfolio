@@ -1,11 +1,6 @@
 # Portfolio
 
-    First Name: Tomasz 
-    Last Name: Rogalski
-    Date of birth: 03/11/1998
-    E-mail: tomasz@rogalski.com
-
- Description of my currently developed app:
+Description of my currently developed app:
 
     Business area: Economics, Finance
 
@@ -13,7 +8,7 @@
   
     - React Native
   
-    - MongoDB
+    - Django
   
     - AWS EC2
   
