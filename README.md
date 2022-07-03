@@ -1,12 +1,13 @@
 # Portfolio
 
-    Name: Tomasz Rogalski 
-
+    First Name: Tomasz 
+    Last Name: Rogalski
+    Date of birth: 03/11/1998
     E-mail: tomasz@rogalski.com
 
-    Business area: Economics, Finance
-
  Description of my currently developed app:
+
+    Business area: Economics, Finance
 
     Technologies used in development:
   
@@ -17,11 +18,13 @@
     - AWS EC2
   
     - Git
+ 
    
   Our team is developing finance related app with the goal to enable everyday users to calculate, predict, analyze and optimize their expenses. The progress of the project is ongoing since early 2021 and first release of our app is planned at the second half of 2022.
   
   
-  Frontend:
+  Frontend
+  
   
 ![IMG_3801](https://user-images.githubusercontent.com/44368503/177048969-5fe2ff75-6372-4e2f-b69d-0dd090788f57.PNG)
 ![IMG_3800](https://user-images.githubusercontent.com/44368503/177048857-212d4cf3-6bcc-42ae-b458-622bf5a3326e.PNG)
