@@ -1,17 +1,25 @@
 # Portfolio
 
-Name: Tomasz Rogalski
-E-mail: tomasz@rogalski.com
-Business area: Economics, Finance
-Description of my currently developed app:
+    Name: Tomasz Rogalski 
 
-  Technologies used in development:
+    E-mail: tomasz@rogalski.com
+
+    Business area: Economics, Finance
+
+ Description of my currently developed app:
+
+    Technologies used in development:
+  
     - React Native
+  
     - MongoDB
+  
     - AWS EC2
+  
     - Git
    
   Our team is developing finance related app with the goal to enable everyday users to calculate, predict, analyze and optimize their expenses. The progress of the project is ongoing since early 2021 and first release of our app is planned at the second half of 2022.
+  
   
   Frontend:
   
@@ -25,7 +33,9 @@ Description of my currently developed app:
 ![IMG_3804](https://user-images.githubusercontent.com/44368503/177049043-e7fe0555-205a-42b9-9fe6-ef01a1804d53.PNG)
 ![IMG_3805](https://user-images.githubusercontent.com/44368503/177049048-04b58ee2-34d9-4fc8-bba7-05148e828c86.PNG)
 
+
   Backend:
+  
   
 ![Untitled Diagram drawio(2)](https://user-images.githubusercontent.com/44368503/177050049-e14db43a-4060-4a4a-a7a3-57b58baa7f3e.png)
 
